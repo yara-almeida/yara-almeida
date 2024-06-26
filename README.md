@@ -2,8 +2,9 @@
 
 
 Eu sou a Yara Almeida, Programadora Front-End, atualmente estou aprendendo e criando projetos usando **HTML**, **CSS** e começando em **JavaScript**.
+<br>
 Possuo conhecimento intermediário em **Python**, e estou no momento migrando o meu bacharelado em **Astrofísica** para a área de programação a qual me apaixonei.
-
+<br>
 Abaixo estão as tecnologias que atualmente trabalho.
 
 <div style="display: inline_block"><br>

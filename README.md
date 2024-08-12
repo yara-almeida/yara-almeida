@@ -5,7 +5,7 @@
 
 <p>Possuo conhecimento intermediário em <strong>Python</strong>, e estou no momento migrando o meu bacharelado em <strong>Astrofísica</strong> para a área de programação a qual me apaixonei.</p>
 
-Abaixo estão as tecnologias que atualmente trabalho.
+**Abaixo estão as tecnologias que atualmente trabalho.**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,15 @@ Abaixo estão as tecnologias que atualmente trabalho.
 
 ##
 
-Você pode me encontrar aqui:
+<div style="display: inline_block">
+
+  ![yara-almeida's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yara-almeida&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+<br>
+
+**Você pode me encontrar aqui:**
 
 <div>
    <a href="https://instagram.com/yarass31" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

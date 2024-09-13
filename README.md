@@ -3,7 +3,6 @@
 
 <p>Me chamo Yara Almeida, sou programadora Full Stack, e aqui você vai encontrar alguns dos meus projetos e um pouco mais.</p>
 
-<p>Possuo conhecimento intermediário em <strong>Python</strong>, e estou no momento migrando o meu bacharelado em <strong>Astrofísica</strong> para a área de programação a qual me apaixonei.</p>
 
 **Abaixo estão as tecnologias que atualmente trabalho.**
 
